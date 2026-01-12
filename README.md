@@ -1,5 +1,13 @@
 # Flower Species Classification: CNN Model Comparison
 
+## 👥 Group Members
+<strong>
+- Muhammad Syahiran Bin Mohd Suhaimi - 52213124563 <br>
+- Muhammad Amirul Bin Hayazi - 52213124486</strong>
+
+## Data Taken From Kaggle
+- https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+
 ## 📋 Project Overview
 This project evaluates three Deep Learning architectures (**ResNet50, DenseNet121, and MobileNetV3**) to classify 5 types of flowers. We followed a team-based pipeline:
 
